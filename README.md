@@ -5,7 +5,7 @@ A shell script for your GitHub activity graph.
 No need to install any other plug-ins, it can be achieved through a shell script
 
 Does your profile look like you have stopped coding at all? No worries, this script will help you.
-![image](https://github.com/feng891005/Beautiful_github_contributions-/blob/main/images/contributions1.PNG）
+![image](https://github.com/feng891005/Beautiful_github_contributions-/blob/main/images/contributions1.PNG)
 
 # How To Use
 Make sure you have Git installed on your machine.
